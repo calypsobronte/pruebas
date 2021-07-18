@@ -25,14 +25,13 @@ $ yarn install
 3. Correr pruebas con:
 ```bash
 $ yarn test
+    yarn run v1.22.10
+    $ jasmine
+    Started
+    ......
 
-yarn run v1.22.10
-$ jasmine
-Started
-......
 
-
-6 specs, 0 failures
-Finished in 0.014 seconds
-Done in 0.17s.
+    6 specs, 0 failures
+    Finished in 0.014 seconds
+    Done in 0.17s.
 ```
